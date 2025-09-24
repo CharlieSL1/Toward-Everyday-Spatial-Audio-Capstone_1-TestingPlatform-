@@ -34,3 +34,6 @@
 * Emphasizes **stability** *(3D-printed fixtures, screw fasteners)*
 * **Safe cabling** and **low-noise** environments
 * Ensures **repeatable measurements**
+
+## Test Platform Flow
+! [TestPlatformFlow](../Doc/Pic/TestPlatformFlow.png)
