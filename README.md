@@ -36,4 +36,4 @@
 * Ensures **repeatable measurements**
 
 ## Test Platform Flow
-! [TestPlatformFlow](../Doc/Pic/TestPlatformFlow.png)
+![TestPlatformFlow](./doc/pic/TestPlatformFlow.png)
